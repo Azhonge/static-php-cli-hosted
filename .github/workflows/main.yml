@@ -1,0 +1,5 @@
+php-version: 8.1
+extensions: "bcmath,curl,event,exif,ffi,fileinfo,intl,mbstring,mysqli,mysqlnd,opcache,openssl,pdo,pdo_mysql,redis,session,zip,zlib"
+sapi: micro
+build-options:
+  prefer-pre-built: true
